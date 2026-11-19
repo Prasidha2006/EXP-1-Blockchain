@@ -38,3 +38,4 @@ return certificates[certHash];
 
 # Result:
 
+Successfully, developed a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
